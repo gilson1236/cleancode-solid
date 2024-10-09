@@ -16,7 +16,7 @@ Utilizei os seguintes requisitos para a execução do projeto:
 
 <div><br>
   * Java 17. <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><br>
-  * Maven <img align="center" alt="Maven" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"<br>
+  * Maven <img align="center" alt="Maven" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"><br>
   * Intellj IDEA Community Edition. <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"><br>
   * Controle de versão GIT. <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"><br>
   * Conta no GitHub para armazenar o projeto na nuvem. <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"><br>
